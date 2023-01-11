@@ -5,4 +5,4 @@
 - .Net Core 5 Web Application - [demowebapplication-waikhaisheng](https://demowebapplication-waikhaisheng.azurewebsites.net/).
 - Angular - [wkstestangular](https://wkstestangular.azurewebsites.net/).
 
-Updated: 19 Sep 2022
+Updated: 2023
