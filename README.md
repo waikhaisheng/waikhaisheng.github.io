@@ -2,7 +2,7 @@
 # waikhaisheng.github.io
 
 ## Web Applications
-- .Net Core 5 Web Application - [demowebapplication-waikhaisheng](https://demowebapplication-waikhaisheng.azurewebsites.net/).
+- C# Web Application - [demowebapplication-waikhaisheng](https://demowebapplication-waikhaisheng.azurewebsites.net/).
 - Angular - [wkstestangular](https://wkstestangular.azurewebsites.net/).
 
 Updated: 2023
